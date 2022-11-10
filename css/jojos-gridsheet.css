@@ -57,7 +57,7 @@
   border-radius: 20px;
 }
 
-.författare {
+.forfattare {
   grid-column: 9/-1;
   border-radius: 20px;
 }
@@ -96,7 +96,7 @@ ul {
   padding-left: 35px;
 }
 
-.författare-content {
+.forfattare-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding-left: 20px;
@@ -141,7 +141,7 @@ ul {
     grid-column: 1/-1;
   }
 
-  .författare {
+  .forfattare {
     grid-column: 1/-1;
   }
 }
